@@ -1,6 +1,6 @@
-Package: com.coolbooter.cbuntetherer
+Package: https://cydia.invoxiplaygames.uk/files/checkmatestore-1.2.deb
 Version: 2.0.0-1
-Section: who knows :)
+Section: Themes
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -8,13 +8,13 @@ Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be less than 7.0
-Name: New Package
+Name: IPG's Checkmate, Store!
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
-Section: Tweaks
+Section: Themes
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
